@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/payroll.dir/main.cpp.o  -o payroll 

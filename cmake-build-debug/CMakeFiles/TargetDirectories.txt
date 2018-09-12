@@ -1,0 +1,3 @@
+/home/raindrop-laptop/CLionProjects/payroll/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/raindrop-laptop/CLionProjects/payroll/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/raindrop-laptop/CLionProjects/payroll/cmake-build-debug/CMakeFiles/payroll.dir
